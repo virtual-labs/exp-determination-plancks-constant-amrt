@@ -1,5 +1,10 @@
 ## Procedure
 
+### Apparatus
+ 
+
+0-10 V  power supply, a one way key, a rheostat, a digital milliammeter, a digital voltmeter, a 1 K resistor and different known wavelength LED's (Light-Emitting Diodes).
+
 ###  Procedure for Simulation
 
 
