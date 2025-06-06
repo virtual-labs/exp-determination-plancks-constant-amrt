@@ -1,38 +1,55 @@
 {
   "version": 2.0,
   "questions": [
-    {
-      "question": "This is a Sample Question 1?",
+   {
+      "question": "An LED is used in",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "An unbiased state",
+        "b": "Forward or reverse bias",
+        "c": "Reverse bias",
+        "d": "Forward bias"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Incorrect. No current flows in unbiased state.",
+        "b": "Incorrect. Only forward bias allows LED to emit light.",
+        "c": "Incorrect. LED does not emit light in reverse bias.",
+        "d": "Correct. LED emits light when forward biased."
       },
-      "correctAnswer": "a",
+      "correctAnswer": "d",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Which one of the following is a forced vibration?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Vibration of a building during earthquake",
+        "b": "Pulling a child back on a swing",
+        "c": "Mass suspended on a stretched string",
+        "d": "Hitting a tuning fork"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Correct. Earthquakes induce external vibrations—forced vibration.",
+        "b": "Incorrect. This initiates free vibration.",
+        "c": "Incorrect. This describes natural vibration.",
+        "d": "Incorrect. This produces free vibration after the hit."
       },
-      "correctAnswer": "c",
+      "correctAnswer": "a",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "The mechanical oscillation about an equilibrium point refers",
+      "answers": {
+        "a": "Vibration",
+        "b": "Resonance",
+        "c": "Reverberation",
+        "d": "The angle of incidence is less than the angle of refraction"
+      },
+      "explanations": {
+        "a": "Correct. Vibration refers to mechanical oscillation around an equilibrium.",
+        "b": "Incorrect. Resonance is a specific condition of vibration.",
+        "c": "Incorrect. Reverberation is a sound phenomenon.",
+        "d": "Incorrect. This is related to optics, not mechanical oscillation."
+      },
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
