@@ -2,38 +2,38 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "LED stands for?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Light Emitter Diode",
+        "b": "None of these",
+        "c": "Light Emitting Diode",
+        "d": "Light Emitted Diode"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Incorrect. The correct term is 'Emitting', not 'Emitter'.",
+        "b": "Incorrect. One of the listed options is correct.",
+        "c": "Correct. LED stands for Light Emitting Diode.",
+        "d": "Incorrect. 'Emitted' is past tense, not used in the standard term."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
+    },
+    {
+      "question": "The value of Planck’s constant is",
+      "answers": {
+        "a": "6.63x10²⁴ Js",
+        "b": "6.63x10⁻²⁴ Js",
+        "c": "6.63x10³⁴ Js",
+        "d": "6.63x10⁻³⁴ Js"
+      },
+      "explanations": {
+        "a": "Incorrect. The exponent is too large.",
+        "b": "Incorrect. Incorrect exponent sign.",
+        "c": "Incorrect. The exponent is too large.",
+        "d": "Correct. Planck's constant is approximately 6.63 × 10⁻³⁴ Js."
+      },
+      "correctAnswer": "d",
+      "difficulty": "intermediate"
     }
   ]
 }
