@@ -1,0 +1,90 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "LED stands for?",
+      "answers": {
+        "a": "Light Emitter Diode",
+        "b": "None of these",
+        "c": "Light Emitting Diode",
+        "d": "Light Emitted Diode"
+      },
+      "explanations": {
+        "a": "Incorrect. The correct term is 'Emitting', not 'Emitter'.",
+        "b": "Incorrect. One of the listed options is correct.",
+        "c": "Correct. LED stands for Light Emitting Diode.",
+        "d": "Incorrect. 'Emitted' is past tense, not used in the standard term."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The value of Planck’s constant is",
+      "answers": {
+        "a": "6.63x10²⁴ Js",
+        "b": "6.63x10⁻²⁴ Js",
+        "c": "6.63x10³⁴ Js",
+        "d": "6.63x10⁻³⁴ Js"
+      },
+      "explanations": {
+        "a": "Incorrect. The exponent is too large.",
+        "b": "Incorrect. Incorrect exponent sign.",
+        "c": "Incorrect. The exponent is too large.",
+        "d": "Correct. Planck's constant is approximately 6.63 × 10⁻³⁴ Js."
+      },
+      "correctAnswer": "d",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "An LED is used in",
+      "answers": {
+        "a": "An unbiased state",
+        "b": "Forward or reverse bias",
+        "c": "Reverse bias",
+        "d": "Forward bias"
+      },
+      "explanations": {
+        "a": "Incorrect. No current flows in unbiased state.",
+        "b": "Incorrect. Only forward bias allows LED to emit light.",
+        "c": "Incorrect. LED does not emit light in reverse bias.",
+        "d": "Correct. LED emits light when forward biased."
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which one of the following is a forced vibration?",
+      "answers": {
+        "a": "Vibration of a building during earthquake",
+        "b": "Pulling a child back on a swing",
+        "c": "Mass suspended on a stretched string",
+        "d": "Hitting a tuning fork"
+      },
+      "explanations": {
+        "a": "Correct. Earthquakes induce external vibrations—forced vibration.",
+        "b": "Incorrect. This initiates free vibration.",
+        "c": "Incorrect. This describes natural vibration.",
+        "d": "Incorrect. This produces free vibration after the hit."
+      },
+      "correctAnswer": "a",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "The mechanical oscillation about an equilibrium point refers",
+      "answers": {
+        "a": "Vibration",
+        "b": "Resonance",
+        "c": "Reverberation",
+        "d": "The angle of incidence is less than the angle of refraction"
+      },
+      "explanations": {
+        "a": "Correct. Vibration refers to mechanical oscillation around an equilibrium.",
+        "b": "Incorrect. Resonance is a specific condition of vibration.",
+        "c": "Incorrect. Reverberation is a sound phenomenon.",
+        "d": "Incorrect. This is related to optics, not mechanical oscillation."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}
